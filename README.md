@@ -157,7 +157,7 @@ Publish the website in the LocalHost.
         
 
 </html>
-``  
+```
 ## OUTPUT:
 ![Screenshot 2024-04-11 103139](https://github.com/BhumireddyLakshmivardhanreddy/cover/assets/148514637/6084e45d-6507-4170-9d6e-399d8dfa9d64)
 
